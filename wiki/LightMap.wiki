@@ -1,0 +1,6 @@
+#summary Creating LightMap.
+#labels Featured,3DsMax,LightMap
+
+= Tutorial =
+
+http://sea3d.googlecode.com/svn/tags/LightMap.jpg
