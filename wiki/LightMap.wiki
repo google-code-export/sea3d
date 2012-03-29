@@ -1,5 +1,5 @@
 #summary Creating LightMap.
-#labels Featured,3DsMax,LightMap
+#labels Featured,3DsMax,LightMap,Tutorial
 
 = Tutorial =
 
