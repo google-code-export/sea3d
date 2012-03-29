@@ -1,5 +1,5 @@
 #summary Creating DetailMap.
-#labels Featured,DetailMap,3DsMax,Tutorial
+#labels Featured,Tutorial,3DsMax,DetailMap
 
 = Tutorial =
 
