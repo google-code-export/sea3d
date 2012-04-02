@@ -15,30 +15,30 @@
 
 == Changes ==
 
-*away3d.materials.MaterialBase.as*
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/materials/MaterialBase.as MaterialBase.as]
 
 *Mod:* Replace method: renderPass(...) 
 *Because:* 2 View mode not work.
 
-*away3d.core.base.Object3D.as*
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/core/base/Object3D.as Object3D.as]
 
   # scale() to *uniformScale*()
   # add get and set *scale* : Vector3D
   # add get and set *rotation* : Vector3D
 
-*away3d.materials.DefaultMaterialBase.as*
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/materials/DefaultMaterialBase.as DefaultMaterialBase.as]
 
 *Mod:* Replace method: activateForDepth(...) 
 *Because:* Not render depthPass.
 
-*away3d.animators.AnimatorBase.as*
- 
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/AnimatorBase.as AnimatorBase.as]
+
   # update public method: updateAnimation(...) 
 
-*away3d.animators.skeleton.SkeletonNaryLERPNode.as*
- 
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/skeleton/SkeletonNaryLERPNode.as SkeletonNaryLERPNode.as]
+
   # add public get method: numInput : int
 
-*away3d.animators.skeleton.SkeletonClipNodeBase.as*
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/skeleton/SkeletonClipNodeBase.as SkeletonClipNodeBase.as]
 
   # add public get method: rootPosition : Vector3D
