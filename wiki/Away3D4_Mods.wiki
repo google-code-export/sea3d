@@ -42,3 +42,7 @@
 [http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/skeleton/SkeletonClipNodeBase.as SkeletonClipNodeBase.as]
 
   # add public get method: rootPosition : Vector3D
+
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/SmoothSkeletonAnimator.as SmoothSkeletonAnimator.as]
+
+  # add get lerpNode : SkeletonNaryLERPNode
