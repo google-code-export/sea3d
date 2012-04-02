@@ -1,0 +1,44 @@
+#summary Changes and additions to the engine.
+#labels Featured,Away3D,Mods
+
+= Introduction =
+
+== Classes added ==
+
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/filters/ColorBalanceFilter3D.as ColorBalanceFilter3D.as]
+
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/filters/ColorMatrixFilter3D.as ColorMatrixFilter3D.as]
+
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/filters/ColorTransformFilter3D.as ColorTransformFilter3D.as]
+
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/filters/LevelsFilter3D.as LevelsFilter3D.as]
+
+== Changes ==
+
+*away3d.materials.MaterialBase.as*
+
+*Mod:* Replace method: renderPass(...) 
+*Because:* 2 View mode not work.
+
+*away3d.core.base.Object3D.as*
+
+  # scale() to *uniformScale*()
+  # add get and set *scale* : Vector3D
+  # add get and set *rotation* : Vector3D
+
+*away3d.materials.DefaultMaterialBase.as*
+
+*Mod:* Replace method: activateForDepth(...) 
+*Because:* Not render depthPass.
+
+*away3d.animators.AnimatorBase.as*
+ 
+  # update public method: updateAnimation(...) 
+
+*away3d.animators.skeleton.SkeletonNaryLERPNode.as*
+ 
+  # add public get method: numInput : int
+
+*away3d.animators.skeleton.SkeletonClipNodeBase.as*
+
+  # add public get method: rootPosition : Vector3D
