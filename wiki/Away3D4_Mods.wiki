@@ -33,7 +33,7 @@
 
 [http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/AnimatorBase.as AnimatorBase.as]
 
-  # update public method: updateAnimation(...) 
+  # update of protected to public method: updateAnimation(...) 
 
 [http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/skeleton/SkeletonNaryLERPNode.as SkeletonNaryLERPNode.as]
 
