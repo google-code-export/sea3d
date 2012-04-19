@@ -3,4 +3,6 @@
 
 = Tutorial =
 
+Example: http://www.sunag.com.br/sea3d/?e=DetailMap
+
 http://sea3d.googlecode.com/svn/tags/DetailMap.jpg
