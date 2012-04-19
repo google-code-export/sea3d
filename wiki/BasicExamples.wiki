@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Basic examples and source code.
 #labels Featured,3dsMax,Examples,SEA3D,BasicExamples
 
 = Introduction =
