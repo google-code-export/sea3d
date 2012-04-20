@@ -5,49 +5,53 @@
 
 == Classes added ==
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/filters/ColorBalanceFilter3D.as ColorBalanceFilter3D.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/filters/ColorBalanceFilter3D.as ColorBalanceFilter3D.as]
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/filters/ColorMatrixFilter3D.as ColorMatrixFilter3D.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/filters/ColorMatrixFilter3D.as ColorMatrixFilter3D.as]
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/filters/ColorTransformFilter3D.as ColorTransformFilter3D.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/filters/ColorTransformFilter3D.as ColorTransformFilter3D.as]
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/filters/LevelsFilter3D.as LevelsFilter3D.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/filters/LevelsFilter3D.as LevelsFilter3D.as]
 
 == Changes ==
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/materials/MaterialBase.as MaterialBase.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/materials/MaterialBase.as MaterialBase.as]
+
+Added *lighting* blend mode.
+
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/materials/MaterialBase.as MaterialBase.as]
 
 *Mod:* Replace method: renderPass(...) 
 *Because:* 2 View mode not work.
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/materials/methods/BasicDiffuseMethod.as BasicDiffuseMethod.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/materials/methods/BasicDiffuseMethod.as BasicDiffuseMethod.as]
 
 *Mod:* Add get and set method: textureThreshold : Boolean
 *Because:* Soft threshold texture or not.
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/core/base/Object3D.as Object3D.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/core/base/Object3D.as Object3D.as]
 
   # scale() to *uniformScale*()
   # add get and set *scale* : Vector3D
   # renamed get and set *euler* to *rotation* : Vector3D
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/materials/DefaultMaterialBase.as DefaultMaterialBase.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/materials/DefaultMaterialBase.as DefaultMaterialBase.as]
 
 *Mod:* Replace method: activateForDepth(...) 
 *Because:* Not render depthPass.
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/AnimatorBase.as AnimatorBase.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/animators/AnimatorBase.as AnimatorBase.as]
 
   # update of protected to public method: updateAnimation(...) 
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/skeleton/SkeletonNaryLERPNode.as SkeletonNaryLERPNode.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/animators/skeleton/SkeletonNaryLERPNode.as SkeletonNaryLERPNode.as]
 
   # add public get method: numInput : int
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/skeleton/SkeletonClipNodeBase.as SkeletonClipNodeBase.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/animators/skeleton/SkeletonClipNodeBase.as SkeletonClipNodeBase.as]
 
   # add public get method: rootPosition : Vector3D
 
-[http://code.google.com/p/sea3d/source/browse/trunk/AS3/custom-away3d/src/away3d/animators/SmoothSkeletonAnimator.as SmoothSkeletonAnimator.as]
+[http://code.google.com/p/sea3d/source/browse/trunk/AS3/SWC/custom-away3d/src/away3d/animators/SmoothSkeletonAnimator.as SmoothSkeletonAnimator.as]
 
   # add get lerpNode : SkeletonNaryLERPNode
