@@ -7,6 +7,9 @@ All examples and assets are available for download on
 
 [http://code.google.com/p/sea3d/downloads/detail?name=SEA3D%20-%20BasicExamples.zip&can=2&q=#makechanges http://code.google.com/p/sea3d/downloads/list]
 
+Download Libs:
+[http://code.google.com/p/sea3d/downloads/detail?name=LIBS.zip]
+
 == Simple Load Example ==
 
 {{{
