@@ -342,10 +342,12 @@ package
 	
 	import sunag.sea.SEAEvent;
 	import sunag.sea3d.SEA3D;
+	import sunag.sea3d.SEAMaterial;
+	import sunag.sea3d.SEAMesh;
 	import sunag.sea3d.away3d.Away3D;
 	
 	[SWF(width="1024", height="632", backgroundColor="0x2f3032", frameRate="60")]
-	public class SimpleLoadExample extends Sprite
+	public class SEAObjectExample extends Sprite
 	{
 		private var view:View3D;
 		private var scene:Scene3D;
@@ -355,7 +357,7 @@ package
 		[Embed (source="../assets/SimpleScene.sea",mimeType="application/octet-stream")]
 		private var SimpleScene:Class;
 		
-		public function SimpleLoadExample()
+		public function SEAObjectExample()
 		{
 			/**
 			 * Basic config.
@@ -406,46 +408,35 @@ package
 			loader.load(new SimpleScene());						
 		}
 		
+		private function getSEAObject():void
+		{
+			/**
+			 * Get SEA3D Mesh
+			 * */
+									
+			var seaMesh:SEAMesh = bridge.getSEAMesh("Box001");
+			
+			trace("--");
+			trace("Contains Animation:", Boolean(seaMesh.animation));
+			trace("Color Object: ", "0x" + seaMesh.color.toString(16));
+			trace("Is instance: ", Boolean(seaMesh.instance));
+			trace("Contains VertexColor: ", Boolean(seaMesh.vertexColor));
+			
+			/**
+			 * Get SEA3D Material
+			 * */						
+			
+			var seaMaterial:SEAMaterial = bridge.getSEAMaterial("02 - Default");
+			
+			trace("--");
+			trace("Contains Texture:", Boolean(seaMaterial.diffuseMap));
+			trace("Is Fresnel Reflect:", seaMaterial.fresnel);	
+		}
+		
 		private function onEnterFrame(e:Event):void
 		{
 			if (loader.loaded) {
 				// Custom Code
-				
-				/**
-				 * <player.updateTime> Update in real-time animation using linear interpolation.
-				 * <timeScale=1> 1 is the real time. -1 is a reverse time.
-				 * 
-				 * <OR> get/set actual frame, time or animation position.
-				 * */
-				
-				var timeScale:Number = stage.mouseX - (stage.stageWidth/2);				
-				timeScale /= stage.stageWidth/8;
-												
-				bridge.player.updateTime(timeScale);
-									
-				/**
-				 * Type 1: Using time delta
-				 * */
-				//bridge.player.updateTime(1);				
-				//trace(bridge.player.time);				
-				
-				/**
-				 * Type 2: Using frame rate
-				 * */
-				//bridge.player.frame++;
-				//trace(bridge.player.frame);
-				
-				/**
-				 * Type 3: Using position animation
-				 * */
-				//bridge.player.position++;
-				//trace(bridge.player.position);
-				
-				/**
-				 * <player.update> Update animation
-				 * */
-				
-				bridge.player.update();
 			}
 			
 			view.render();
@@ -462,16 +453,13 @@ package
 		private function onComplete(e:SEAEvent):void
 		{
 			/**
-			 * Examples: Acessing data		 
+			 * Get SEA3D Object	 
 			 * */
 			
-			trace("MeshCount:", bridge.mesh.length);
-			trace("GetMesh:", bridge.getMesh("Box001"));
-			trace("GetLight:", bridge.getLight("Direct001"));
-						
+			getSEAObject();
+							
 			/**
-			 * <Camera001> Camera contained in MAX file.
-			 * <bridge.get...> Using for get element.			 
+			 * <Camera001> Camera contained in MAX file.	 
 			 * */
 			
 			view.camera = bridge.getCamera("Camera001");
