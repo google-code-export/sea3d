@@ -323,7 +323,7 @@ package
 }
 }}}
 
-== SEA Object Example==
+== SEA Object ==
 
 {{{
 /** 
