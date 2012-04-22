@@ -10,7 +10,7 @@ All examples and assets are available for download on
 Download Libs:
 [http://code.google.com/p/sea3d/downloads/detail?name=LIBS.zip]
 
-== Simple Load Example ==
+== Simple Load ==
 
 {{{
 /** 
