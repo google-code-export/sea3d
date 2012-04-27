@@ -1,0 +1,24 @@
+#summary How to export correctly Skin.
+#labels Tutorial,3dsMax,Export,Featured
+
+=== Convert to Editable Mesh object ===
+
+http://sea3d.googlecode.com/svn/tags/skin-0.jpg
+
+To preserve the changes of the mesh and optimize the export is necessary convert the model to Editable Mesh.
+
+[Tips_3dsMax_ConvertMesh]
+
+=== Not repeat bone name ===
+
+http://sea3d.googlecode.com/svn/tags/skin-1.jpg
+
+Do not repeat the same name for the bones. For handling of the bones in the engine they should be independent names.
+
+=== Do not create redundant envelopes ===
+
+Share the vertices of the mesh only with parent or child bones.
+
+http://sea3d.googlecode.com/svn/tags/skin-2.jpg
+
+http://sea3d.googlecode.com/svn/tags/skin-3.jpg
