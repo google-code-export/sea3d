@@ -1,0 +1,111 @@
+#summary Simple Load .sea file using AS3.
+#labels AS3,Examples,Loader
+
+= SEA3D Examples =
+
+*[http://code.google.com/p/sea3d/downloads/detail?name=SEA3D%20AS3%20Examples%20%281.3-A1%29.zip Download All Examples]*
+
+*[http://www.sunag.com.br/sea3d/examples/SimpleLoad.html Preview]*
+
+{{{
+package
+{
+	import away3d.containers.Scene3D;
+	import away3d.containers.View3D;
+	import away3d.debug.AwayStats;
+	import away3d.entities.Mesh;
+	
+	import flash.display.Sprite;
+	import flash.display.StageAlign;
+	import flash.display.StageScaleMode;
+	import flash.events.Event;
+	import flash.events.MouseEvent;
+	
+	import sunag.animation.AnimationTarget;
+	import sunag.events.SEAEvent;
+	import sunag.sea3d.SEA3D;
+	
+	[SWF(width="1024", height="632", backgroundColor="0x2f3032", frameRate="60")]
+	public class SimpleLoad extends Sprite
+	{
+		private var view:View3D;
+		private var scene:Scene3D;
+		private var sea3d:SEA3D;
+		
+		[Embed (source="../assets/SimpleScene.sea",mimeType="application/octet-stream")]
+		private var SimpleScene:Class;
+		
+		public function SimpleLoad()
+		{
+			/**
+			 * Basic config.
+			 * */
+			
+			stage.stageFocusRect = false;
+			stage.showDefaultContextMenu=false;	
+			stage.align = StageAlign.TOP_LEFT;
+			stage.scaleMode = StageScaleMode.NO_SCALE;
+			
+			scene = new Scene3D();			
+			
+			view = new View3D(scene);			
+			view.backgroundColor = stage.color;
+			view.antiAlias = 4;
+			addChild(view);
+			addChild(new AwayStats(view));
+						
+			/**
+			 * Init loader for Away3D.
+			 * */			
+			
+			sea3d = new SEA3D();
+						
+			sea3d.addEventListener(SEAEvent.COMPLETE, onComplete);			
+			sea3d.loadBytes(new SimpleScene());	
+		}
+		
+		private function onEnterFrame(e:Event):void
+		{		
+			/**
+			 * Interaction
+			 * */	
+			var mesh:Mesh = sea3d.getMesh("Torus01");
+			//trace("mesh position:",mesh.name,mesh.position);
+			
+			view.render();
+		}
+		
+		private function onComplete(e:SEAEvent):void
+		{
+			/**
+			 * Play All Animation 
+			 * */
+			
+			// use to check that contains animation
+			// if (sea3d.player)
+			
+			sea3d.player.play();
+			
+			/**
+			 * <Camera01> Camera contained in MAX file.
+			 * <bridge.get...> Using for get element.			 
+			 * */						
+			
+			view.camera = sea3d.getCamera("Camera01");
+			
+			/**
+			 * <bridge.container> contains all elements loaded.
+			 * add objects in scene container
+			 * */
+			
+			scene.addChild(sea3d.container);
+			
+			/**
+			 * Start render and update.
+			 * */
+			
+			stage.addEventListener(Event.ENTER_FRAME, onEnterFrame);
+		}
+	}
+}
+}}}
