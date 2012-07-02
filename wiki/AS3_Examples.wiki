@@ -1,9 +1,15 @@
-#summary Examples in AS3. CharacterController, Morph and BasicLoad.
+#summary Examples in AS3. Character, Morph and others.
 #labels Featured,AS3,Examples
 
 = SEA3D Examples =
 
 *[http://code.google.com/p/sea3d/downloads/detail?name=SEA3D%20AS3%20Examples%20%281.3-A1%29.zip Download All Examples]*
+
+=== CharacterExample.as ===
+
+[http://www.sunag.com.br/sea3d/examples/CharacterExample.html]
+
+[http://www.sunag.com.br/sea3d/examples/CharacterExample.as]
 
 === CharacterExample.as ===
 
