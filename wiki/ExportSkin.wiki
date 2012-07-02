@@ -1,12 +1,6 @@
 #summary How to export correctly Skin.
 #labels Tutorial,3dsMax,Export,Featured
 
-=== Convert to Editable Mesh object ===
-
-To preserve the changes of the mesh and optimize the export is necessary convert the model to Editable Mesh.
-
-http://sea3d.googlecode.com/svn/tags/skin-0.jpg
-
 [Tips_3dsMax_ConvertMesh]
 
 === Not repeat bone name ===
