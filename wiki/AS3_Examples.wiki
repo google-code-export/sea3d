@@ -7,5 +7,6 @@
 
 === CharacterExample.as ===
 
-*[http://www.sunag.com.br/sea3d/examples/CharacterExample.html]*
-*[http://www.sunag.com.br/sea3d/examples/CharacterExample.as]*
+[http://www.sunag.com.br/sea3d/examples/CharacterExample.html]
+
+[http://www.sunag.com.br/sea3d/examples/CharacterExample.as]
