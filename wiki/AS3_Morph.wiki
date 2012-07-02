@@ -1,4 +1,4 @@
-#summary Character Controller using AS3.
+#summary Morph Animation using AS3.
 #labels AS3,Examples,Morph
 
 = SEA3D Examples =
