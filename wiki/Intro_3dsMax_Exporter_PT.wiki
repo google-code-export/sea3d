@@ -148,7 +148,7 @@ Marcando esta opção SEA3D usara a *Bind Frame* como a posição zero do Bone b
 
 === Publicando na Web ===
 
-SEA3D é um projeto em código aberto que pode ser adaptado por qualquer programador para um fim especifico. Para quem é ou não programador tem um portal chamado [http://www.poonya.com/ Poonya] http://www.poonya.com/) onde você poderá incluir seus projetos e assets em 4 passos.
+SEA3D é um projeto em código aberto que pode ser adaptado por qualquer programador para um fim especifico. Para quem é ou não programador tem um portal chamado [http://www.poonya.com/ Poonya] onde você poderá incluir seus projetos e assets em 4 passos.
 
   # Clique em *upload assets*. (É necessário cadastro)
   # Clique na *setinha para cima* para selecionar seu arquivo.
