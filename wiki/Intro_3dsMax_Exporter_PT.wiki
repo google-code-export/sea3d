@@ -7,7 +7,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Top.jpg
 
 *SEA3D* é um de formato arquivo *All in One* (_Tudo em um_) em código aberto focado para games online, atualmente com versão para 3ds Max e Flash Player.
 
-O script exporta praticamente tudo que é usado em games, incluindo instancias de geometria, material, texturas, esqueleto(Skin), câmera, áudio, além de animações individuais e múltiplos mapeamento.
+O script exporta praticamente tudo que é usado em games, incluindo instancias de geometria, material, texturas, esqueleto(Skin), câmera, áudio, animações individuais e múltiplos mapeamento.
 
 Você também pode fazer upload de seus projetos e incorporar em sites ou blog com [http://www.poonya.com/ Poonya].
 
