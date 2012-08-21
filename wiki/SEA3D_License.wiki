@@ -3,7 +3,7 @@
 
 = SEA3D License =
 
-The intention is SEA3D only help the development of creating games based on the technology we use in the company Sunag Entertainment.
+We create SEA3D to help the development of creating games based on the technology we use in the company Sunag Entertainment.
 
 We intend to expand SAE3D for platforms beyond the Flash Player being able to create games for both the Web as Desktop.
 
