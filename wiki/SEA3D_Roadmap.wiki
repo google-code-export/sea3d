@@ -1,0 +1,54 @@
+#summary Progress development of SEA3D.
+#labels Featured,History,Roadmap,SEA3D
+
+== SEA3D 1.3 ==
+
+=== Up ===
+*
+  * Export Scene Hierarchy with Joints
+  * Stream Loader Method (Progressive Loader)
+  * Export Morph and Morph Animation
+  * Export Sound3D
+  * Export Dummy and Targets
+  * Exrpot Path (Line)
+  * Add Fog Effect
+*
+
+=== Fix ===
+*
+  * New algorithm for skin export
+  * New algorithm for animation export
+  * New algorithm for data compression
+  * Fully compatible with 3dsMax 9
+*
+
+== SEA3D 1.1 ==
+
+=== Up ===
+*
+  * Export Normals
+  * Export Smoothing Groups
+  * Export Light Attenuation
+  * Auto Convert XYZ to XZY Euler Rotation
+  * Optimized Animation Loader
+*
+
+=== Fix ===
+*
+  * Scene backup 
+  * Export only environment
+  * Export complex instances
+  * DiffuseColor Material
+  * Real mesh export
+*
+
+== SEA3D 1.0 - Features ==
+
+=== Up ===
+*
+  * Export Mesh
+  * Export Multichannel Geometry
+  * Export Texture and Material
+  * Export Light
+  * Export Camera
+*
