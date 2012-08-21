@@ -3,7 +3,7 @@
 
 = SEA3D Examples =
 
-*[http://code.google.com/p/sea3d/downloads/detail?name=SEA3D%20AS3%20Examples%20%281.3-A1%29.zip Download All Examples]*
+*[http://code.google.com/p/sea3d/downloads/detail?name=SEA3D%20AS3%20Examples%201.3.1.0.zip&can=2&q=#makechanges Download All Examples]*
 
 Move mouse around screen.
 *[http://www.sunag.com.br/sea3d/examples/MorphExample.html Preview]*
@@ -14,6 +14,7 @@ package
 	import away3d.containers.Scene3D;
 	import away3d.containers.View3D;
 	import away3d.debug.AwayStats;
+	import away3d.entities.AdvMesh;
 	import away3d.entities.Mesh;
 	import away3d.modifiers.MorphModifier;
 	import away3d.morph.MorphNode;
@@ -72,11 +73,8 @@ package
 			/**
 			 * Get MorphModifier
 			 * */	
-			var mesh:Mesh = sea3d.getMesh("Teapot01");			
+			var mesh:AdvMesh = sea3d.getMesh("Teapot01") as AdvMesh;			
 			var modifier:MorphModifier = mesh.modifiers[0];
-			
-			// return false used GPU
-			//trace(modifier.usesCPU);
 			
 			/**
 			 * Get Morphs
