@@ -1,4 +1,5 @@
-#summary Morph Animation using AS3.
+#summary Multilayer Texture using AS3.
+#labels Multilayer,Texture,Examples,AS3
 
 = SEA3D Examples =
 
