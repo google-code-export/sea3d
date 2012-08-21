@@ -1,4 +1,5 @@
 #summary Differences between SEA3D and SEA3D Lite
+#labels Featured,Differences,SEA3D,SEA3DLite
 
 = SEA3D and SEA3D Lite =
 
