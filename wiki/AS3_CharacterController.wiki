@@ -3,7 +3,7 @@
 
 = SEA3D Examples =
 
-*[http://code.google.com/p/sea3d/downloads/detail?name=SEA3D%20AS3%20Examples%20%281.3-A1%29.zip Download All Examples]*
+*[http://code.google.com/p/sea3d/downloads/detail?name=SEA3D%20AS3%20Examples%201.3.1.0.zip&can=2&q=#makechanges Download All Examples]*
 
 Use keys to move. Press Space to kick.
 *[http://www.sunag.com.br/sea3d/examples/CharacterExample.html Preview]*
@@ -11,12 +11,17 @@ Use keys to move. Press Space to kick.
 {{{
 package
 {
-	import away3d.animators.SmoothSkeletonAnimator;
-	import away3d.animators.data.AnimationSequenceBase;
+	import away3d.animators.AnimationStateBase;
+	import away3d.animators.SkeletonAnimationSet;
+	import away3d.animators.SkeletonAnimationState;
+	import away3d.animators.SkeletonAnimator;
+	import away3d.animators.nodes.AnimationNodeBase;
+	import away3d.animators.transitions.CrossfadeStateTransition;
 	import away3d.containers.Scene3D;
 	import away3d.containers.View3D;
 	import away3d.debug.AwayStats;
 	import away3d.entities.Mesh;
+	import away3d.events.AnimationStateEvent;
 	import away3d.events.AnimatorEvent;
 	import away3d.modifiers.MorphModifier;
 	import away3d.morph.MorphNode;
@@ -34,6 +39,7 @@ package
 	import sunag.animation.AnimationTarget;
 	import sunag.events.SEAEvent;
 	import sunag.sea3d.SEA3D;
+	import sunag.utils.TimeStep;
 	
 	[SWF(width="1024", height="632", backgroundColor="0x2f3032", frameRate="60")]
 	public class CharacterExample extends Sprite
@@ -42,6 +48,7 @@ package
 		private var scene:Scene3D;
 		private var sea3d:SEA3D;		
 		private var keyState:Array = [];
+		private var timeStep:TimeStep = new TimeStep(stage.frameRate);
 		
 		[Embed (source="../assets/Character.sea",mimeType="application/octet-stream")]
 		private var Character:Class;
@@ -100,81 +107,86 @@ package
 		private function onEnterFrame(e:Event):void
 		{
 			var mesh:Mesh = sea3d.getMesh("Player");	
-			var animator:SmoothSkeletonAnimator = sea3d.getSkeletonAnimator("Player");	
+			var animator:SkeletonAnimator = sea3d.getSkeletonAnimator("Player");	
 			
 			var running:Boolean = false;
+						
+			animator.playbackSpeed = 1;
 			
-			animator.timeScale = 1;
-			
-			if (animator.state == "pass#1")
+			if (animator.activeState.stateName == "pass#1")
 			{
 				
 			}			
-			else if (animator.state == "run" || animator.state == "idle")
+			else if (animator.activeState.stateName == "run" || animator.activeState.stateName == "idle")
 			{								
 				if (getKeyState(Keyboard.UP))
 				{
 					running = true;
-					mesh.moveBackward(5);
+					mesh.moveBackward(5 * timeStep.delta);
 				}
 				if (getKeyState(Keyboard.DOWN))
 				{
 					running = true;
-					mesh.moveForward(5);
-					animator.timeScale = -1;
+					mesh.moveForward(5 * timeStep.delta);
+					animator.playbackSpeed = -1;
 				}
 				
 				if (getKeyState(Keyboard.LEFT))
 				{
-					mesh.rotationY -= 5;
+					mesh.rotationY -= 5 * timeStep.delta;
 				}
 				if (getKeyState(Keyboard.RIGHT))
 				{
-					mesh.rotationY += 5;
+					mesh.rotationY += 5 * timeStep.delta;
 				}	
 				
 				if (running)
 				{
-					if (animator.state != "run") 
+					if (animator.activeState.stateName != "run") 
 					{
-						animator.play("run", 200);	
+						animator.play("run", new CrossfadeStateTransition(.3));	
 					}
 				}
 				else
 				{
-					if (animator.state != "idle") 
+					if (animator.activeState.stateName != "idle") 
 					{
-						animator.play("idle", 333);	
+						animator.play("idle", new CrossfadeStateTransition(.3));	
 					}
 				}
 				
 				if (getKeyState(Keyboard.SPACE))
 				{
-					animator.play("pass#1",300);
+					animator.play("pass#1", new CrossfadeStateTransition(.3));
 				}
 			}
-					
+			
+			// trace animation position
+			//trace(AnimationNodeBase(animator.activeState.rootNode).position);
+			
 			//view.camera.lookAt(mesh.position);
 			
 			view.render();
 		}
 		
-		private function onPassDone(e:AnimatorEvent):void
+		private function onPassDone(e:AnimationStateEvent):void
 		{			
-			(e.animator as SmoothSkeletonAnimator).play("idle", 200);
+			sea3d.getSkeletonAnimator("Player").play("idle", new CrossfadeStateTransition(.3));
 		}
 		
 		private function onComplete(e:SEAEvent):void
 		{		
-			var animator:SmoothSkeletonAnimator = sea3d.getSkeletonAnimator("Player");
+			var animator:SkeletonAnimator = sea3d.getSkeletonAnimator("Player");
 			
-			animator.getSequence("pass#1").addEventListener(AnimatorEvent.SEQUENCE_DONE, onPassDone);
-			animator.play("idle");									
+			animator.play("idle");
 			
+			// call function "pass#1" animation completed
+			AnimationStateBase(animator.animationSet.getState("pass#1")).addEventListener(AnimationStateEvent.PLAYBACK_COMPLETE, onPassDone);			
+						
 			// List Sequences
 			trace("<--");
-			for(var i:int=0;i<animator.numSequence;i++)
-				trace(animator.getSequenceName(i));
+			for(var i:int=0;i<animator.animationSet.states.length;i++)
+				trace(animator.animationSet.states[i].stateName);
 			trace("-->");
 			
 			/**
