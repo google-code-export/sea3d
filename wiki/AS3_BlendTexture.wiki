@@ -1,4 +1,5 @@
 #summary Blend Texture using AS3.
+#labels Blend,Texture,Examples,AS3
 
 = SEA3D Examples =
 
