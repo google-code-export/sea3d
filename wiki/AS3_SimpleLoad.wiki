@@ -5,7 +5,7 @@
 
 *[http://code.google.com/p/sea3d/downloads/detail?name=SEA3D%20AS3%20Examples%201.3.1.0.zip&can=2&q=#makechanges Download All Examples]*
 
-*[http://www.sunag.com.br/sea3d/examples/SimpleLoad.html Preview]*
+*[http://www.sunag.com.br/sea3d/examples/?q=SimpleLoad Preview]*
 
 {{{
 package
