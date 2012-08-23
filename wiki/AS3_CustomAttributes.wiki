@@ -1,4 +1,4 @@
-#summary Custom Attributes using AS3.
+#summary Acessing Custom Attributes in AS3.
 #labels Custom,Attributes,3dsMax,SEA3D
 
 = SEA3D Examples =
