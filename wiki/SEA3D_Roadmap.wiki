@@ -40,6 +40,8 @@
 == SEA3D 1.0 - Features ==
 === Up ===
   * Export Mesh
+  * Export Skeleton
+  * Export Animation (Texture, Skeleton, Mesh and Objects)
   * Export Multichannel Geometry
   * Export Texture and Material
   * Export Light
