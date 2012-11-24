@@ -1,8 +1,0 @@
-#summary Creating DetailMap.
-#labels Featured,Tutorial,3DsMax,DetailMap
-
-= Tutorial =
-
-Example: http://www.sunag.com.br/sea3d/?e=detailmap
-
-http://sea3d.googlecode.com/svn/tags/DetailMap.jpg
