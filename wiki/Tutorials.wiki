@@ -3,10 +3,10 @@
 
 == Tutorials ==
 
-*SEA3D Forum*
+*SEA3D*
 http://developers.poonya.com/forum/viewforum.php?f=11
 
 == Questions ==
 
-*SEA3D Forum*
+*SEA3D*
 http://developers.poonya.com/forum/viewforum.php?f=10
