@@ -1,4 +1,4 @@
-#summary Runtime error: CAS (policy by default) .NET Framework
+#summary CAS (policy by default) .NET Framework - Solution
 #labels SEA3D,DLL,Bug,CAS
 
 = Introduction =
