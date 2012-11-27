@@ -12,7 +12,7 @@ If this load is not intended to sandbox the assembly, please enable the loadFrom
 switch. See http://go.microsoft.com/fwlink/?LinkId=155569 for more information.
 }}}
 
-This error is a protection that prevents programs not developed for the specific NET platform are loaded. Was added in 3dsMax 2012 withdrawal of more modern versions such as 3ds Max 2013.
+This error is a protection that prevents programs not developed for the specific .NET platform are loaded. Was added in 3dsMax 2012 withdrawal of more modern versions such as 3ds Max 2013.
 
 = Solution =
 
