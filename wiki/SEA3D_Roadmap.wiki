@@ -51,3 +51,4 @@
   * Export Texture and Material
   * Export Light
   * Export Camera
+  * Export LightMap and DetailMap
