@@ -17,6 +17,7 @@
   * Export Dummy and Targets
   * Exrpot Path (Line)
   * Add Fog Effect
+  * JointObject (Link object in a Bone) 
 === Fix ===
   * New algorithm for skin export
   * New algorithm for animation export
@@ -31,6 +32,9 @@
   * Auto Convert XYZ to XZY Euler Rotation
   * Optimized Animation Loader
   * Added *Color Balance* and *Levels* Post-Processing filter
+  * Skeleton Root Position GPU
+  * Sound3D Auto Reference
+  * SoundMixer3D
 === Fix ===
   * Scene backup 
   * Export only environment
