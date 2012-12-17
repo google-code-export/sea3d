@@ -31,7 +31,7 @@
   * Export Light Attenuation
   * Auto Convert XYZ to XZY Euler Rotation
   * Optimized Animation Loader
-  * Added *Color Balance* and *Levels* Post-Processing filter
+  * Added ColorBalance and Levels Post-Processing filter
   * Skeleton Root Position GPU
   * Sound3D Auto Reference
   * SoundMixer3D
