@@ -30,6 +30,7 @@
   * Export Light Attenuation
   * Auto Convert XYZ to XZY Euler Rotation
   * Optimized Animation Loader
+  * Added *Color Balance* and *Levels* Post-Processing filter
 === Fix ===
   * Scene backup 
   * Export only environment
