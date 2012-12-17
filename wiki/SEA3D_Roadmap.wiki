@@ -33,9 +33,7 @@
   * Auto Convert XYZ to XZY Euler Rotation
   * Optimized Animation Loader
   * Added ColorBalance and Levels Post-Processing filter
-  * Skeleton Root Position GPU
-  * Sound3D Auto Reference
-  * SoundMixer3D
+  * Sound3D and SoundMixer3D
 === Fix ===
   * Scene backup 
   * Export only environment
