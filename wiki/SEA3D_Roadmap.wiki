@@ -49,7 +49,7 @@
   * Export Skeleton
   * Export Animation (Texture, Skeleton, Mesh and Objects)
   * Export Multichannel Geometry
-  * Export Texture and Material (DiffuseMap, SpecularMap, NormalMap, CubemapReflection, CubemapRefraction, Fresnel Cubemap Reflection)
+  * Export Texture and Material (DiffuseMap, SpecularMap, NormalMap, Cubemap Reflection, Cubemap Refraction, Fresnel Cubemap Reflection)
   * Export Light
   * Export Camera
   * Export LightMap and DetailMap
