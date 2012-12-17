@@ -13,7 +13,7 @@
   * Export Scene Hierarchy with Joints
   * Stream Loader Method (Progressive Loader)
   * Export Morph and Morph Animation
-  * Export Sound3D * SoundMixer3D
+  * Export Sound3D abd SoundMixer3D
   * Export Dummy and Targets
   * Export Path (Line)
   * Export InkPaint Material
