@@ -13,7 +13,7 @@
   * Export Scene Hierarchy with Joints
   * Stream Loader Method (Progressive Loader)
   * Export Morph and Morph Animation
-  * Export Sound3D
+  * Export Sound3D * SoundMixer3D
   * Export Dummy and Targets
   * Export Path (Line)
   * Export InkPaint Material
@@ -33,7 +33,6 @@
   * Auto Convert XYZ to XZY Euler Rotation
   * Optimized Animation Loader
   * Added ColorBalance and Levels Post-Processing filter
-  * Sound3D and SoundMixer3D
 === Fix ===
   * Scene backup 
   * Export only environment
