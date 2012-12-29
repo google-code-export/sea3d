@@ -11,10 +11,6 @@
   * Snapshot (Get current geometry of the scene)
 === Fix ===
   * Improvement Sound3D Exporter
-  * Material Color
-  * PostProcessing Shaders (FlashPlayer only)
-  * AnimationTime and AnimationPlayer
-  * Material and SubMaterial (Easier exchange of materials. FlashPlayer oly)
 ----
 == SEA3D 1.3.1 ==
 === Up ===
