@@ -1,6 +1,22 @@
 #summary Progress development of SEA3D.
 #labels Featured,History,Roadmap,SEA3D
 
+== SEA3D 1.4 ==
+=== Up ===
+  * Animation Takes
+  * Runtime CubeReflection and PlanarReflection
+  * Vertex Animation
+  * InkNPaint Shader
+  * Custom Object Config (SEA3D Tag)
+  * Snapshot (Get current geometry of the scene)
+=== Fix ===
+  * Improvement Sound3D Exporter
+  * Material Color
+  * PostProcessing Shaders (FlashPlayer only)
+  * AnimationTime and AnimationPlayer
+  * Material and SubMaterial (Easier exchange of materials. FlashPlayer oly)
+  * 
+----
 == SEA3D 1.3.1 ==
 === Up ===
   * Multilayer Texture + 26 Blend Mode
