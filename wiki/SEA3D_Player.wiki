@@ -22,7 +22,7 @@ You can also join parameters as *`?forcecpu=false&shadow=none`*
 === forcecpu ===
 
 Enables or disables the use of the GPU for animation.
-_If contained in the file SEA3D._
+_If contained in the file .sea._
 
 *
   * true *(default)*
@@ -34,7 +34,7 @@ _If contained in the file SEA3D._
 === shadow ===
 
 Set the type of shadow to be displayed.
-_If contained in the file SEA3D._
+_If contained in the file .sea._
 
 *
   * none
@@ -47,7 +47,7 @@ _If contained in the file SEA3D._
 === fog ===
 
 Enables or disables fog in the scene. 
-_If contained in the file SEA3D._
+_If contained in the file .sea._
 
 *
   * true *(default)*
