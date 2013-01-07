@@ -1,4 +1,4 @@
-#summary Learn to set up the SEA3D Player.
+#summary Learn about shortcuts and setting the SEA3D Player.
 #labels SEA3D,Player
 
 = SEA3D Player  =
@@ -62,6 +62,4 @@ Opens a SEA3D file from a URL.
 *
 
 Example: http://www.sunag.com.br/sea3d/?load=http://www.sunag.com.br/sea3d/soccer.sea
-
-
 
