@@ -12,7 +12,7 @@ Mode2 - http://www.sunag.com.br/sea3d/?forcecpu=true&shadow=cascade
    * Move the camera - *Arrows keys or W,A,S and D*
    * Change of camera - *C*
    * Change the Post-Processing effect - *Page Down and Page Up*
-   * Change the animation speed - *+ or -*
+   * Change the animation speed - *- or +*
    * Change the animation - *0 at 9*
 
 == Parameters ==
