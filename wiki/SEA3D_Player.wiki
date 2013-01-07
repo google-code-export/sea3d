@@ -3,7 +3,9 @@
 
 = SEA3D Player  =
 
-* http://www.sunag.com.br/sea3d/ *
+* Mode1 - * http://www.sunag.com.br/sea3d/
+
+* Mode2 - * http://www.sunag.com.br/sea3d/?forcecpu=true&shadow=cascade
 
 == Shortcuts == 
 
@@ -40,7 +42,7 @@ _If contained in the file SEA3D._
   * cascade
 *
 
-Example: http://www.sunag.com.br/sea3d/?shadow=none
+*Example:* http://www.sunag.com.br/sea3d/?shadow=none
 
 === fog ===
 
@@ -52,7 +54,7 @@ _If contained in the file SEA3D._
   * false
 *
 
-Example: http://www.sunag.com.br/sea3d/?fog=false
+*Example:* http://www.sunag.com.br/sea3d/?fog=false
 
 === load ===
 
