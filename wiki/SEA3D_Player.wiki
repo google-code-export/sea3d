@@ -58,7 +58,7 @@ _If contained in the file SEA3D._
 
 === load ===
 
-Opens a SEA3D file from a URL.
+Open a SEA3D file from a URL.
 
 *
   * url
