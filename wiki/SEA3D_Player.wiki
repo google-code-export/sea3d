@@ -21,7 +21,7 @@ You can also join parameters as *`?forcecpu=true&shadow=none`*
 
 === forcecpu ===
 
-Enables or disables the use of the CPU for animation.
+Enables or disables the use of the GPU for animation.
 _If contained in the file .sea._
 
 *
