@@ -25,8 +25,8 @@ Enables or disables the use of the GPU for animation.
 _If contained in the file .sea._
 
 *
-  * true *(default)*
-  * false
+  * true 
+  * false *(default)*
 *
 
 *Example:* http://www.sunag.com.br/sea3d/?forcecpu=false
