@@ -6,7 +6,7 @@
   * Animation Takes
   * Runtime CubeReflection and PlanarReflection
   * Vertex Animation
-  * InkNPaint Shader
+  * Ink Paint Shader
   * Custom Object Config (SEA3D Tag)
   * Snapshot (Get current geometry of the scene)
 === Fix ===
