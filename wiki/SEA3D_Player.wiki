@@ -17,7 +17,7 @@ Mode2: http://www.sunag.com.br/sea3d/?forcecpu=true&shadow=cascade
 
 == Parameters ==
 
-You can also join parameters as *`?forcecpu=false&shadow=none`*
+You can also join parameters as *`?forcecpu=true&shadow=none`*
 
 === forcecpu ===
 
@@ -29,7 +29,7 @@ _If contained in the file .sea._
   * false *(default)*
 *
 
-*Example:* http://www.sunag.com.br/sea3d/?forcecpu=false
+*Example:* http://www.sunag.com.br/sea3d/?forcecpu=true
 
 === shadow ===
 
