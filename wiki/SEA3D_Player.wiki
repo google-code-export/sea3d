@@ -3,9 +3,9 @@
 
 = SEA3D Player  =
 
-* Mode1 - * http://www.sunag.com.br/sea3d/
+Mode1 - http://www.sunag.com.br/sea3d/
 
-* Mode2 - * http://www.sunag.com.br/sea3d/?forcecpu=true&shadow=cascade
+Mode2 - http://www.sunag.com.br/sea3d/?forcecpu=true&shadow=cascade
 
 == Shortcuts == 
 
@@ -29,7 +29,7 @@ _If contained in the file SEA3D._
   * false
 *
 
-Example: http://www.sunag.com.br/sea3d/?forcecpu=false
+*Example:* http://www.sunag.com.br/sea3d/?forcecpu=false
 
 === shadow ===
 
@@ -64,4 +64,4 @@ Opens a SEA3D file from a URL.
   * url
 *
 
-Example: http://www.sunag.com.br/sea3d/?load=http://www.sunag.com.br/sea3d/soccerreflect.sea&forcecpu=true&shadow=cascade
+*Example:* http://www.sunag.com.br/sea3d/?load=http://www.sunag.com.br/sea3d/soccerreflect.sea&forcecpu=true&shadow=cascade
