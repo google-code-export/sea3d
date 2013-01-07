@@ -3,9 +3,9 @@
 
 = SEA3D Player  =
 
-Mode1 http://www.sunag.com.br/sea3d/
+Mode1: http://www.sunag.com.br/sea3d/
 
-Mode2 http://www.sunag.com.br/sea3d/?forcecpu=true&shadow=cascade
+Mode2: http://www.sunag.com.br/sea3d/?forcecpu=true&shadow=cascade
 
 == Shortcuts == 
 
