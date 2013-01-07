@@ -62,4 +62,4 @@ Opens a SEA3D file from a URL.
   * url
 *
 
-Example: http://www.sunag.com.br/sea3d/?load=http://www.sunag.com.br/sea3d/soccerreflect.sea
+Example: http://www.sunag.com.br/sea3d/?load=http://www.sunag.com.br/sea3d/soccerreflect.sea&forcecpu=true
