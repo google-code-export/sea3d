@@ -1,0 +1,67 @@
+#summary Learn to set up the SEA3D Player.
+#labels SEA3D,Player
+
+= SEA3D Player  =
+
+* http://www.sunag.com.br/sea3d/ *
+
+== Shortcuts == 
+
+   * Move the camera - *Arrows keys or W,A,S and D*
+   * Changes of camera - *C*
+   * Change Post-Processing effect - *Page Down and Page Up*
+   * Animation speed - *+ or -*
+
+== Parameters ==
+
+You can also join parameters as *`?forcecpu=false&shadow=none`*
+
+=== forcecpu ===
+
+Enables or disables the use of the GPU for animation.
+_If contained in the file SEA3D._
+
+*
+  * true *(default)*
+  * false
+*
+
+Example: http://www.sunag.com.br/sea3d/?forcecpu=false
+
+=== shadow ===
+
+Set the type of shadow to be displayed.
+_If contained in the file SEA3D._
+
+*
+  * none
+  * near *(default)*
+  * cascade
+*
+
+Example: http://www.sunag.com.br/sea3d/?shadow=none
+
+=== fog ===
+
+Enables or disables fog in the scene. 
+_If contained in the file SEA3D._
+
+*
+  * true *(default)*
+  * false
+*
+
+Example: http://www.sunag.com.br/sea3d/?fog=false
+
+=== load ===
+
+Opens a SEA3D file from a URL.
+
+*
+  * url
+*
+
+Example: http://www.sunag.com.br/sea3d/?load=http://www.sunag.com.br/sea3d/soccer.sea
+
+
+
