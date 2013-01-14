@@ -3,9 +3,9 @@
 
 = SEA3D Player  =
 
-Mode1: http://www.sunag.com.br/sea3d/
+Mode1: http://sea3d.poonya.com/player/
 
-Mode2: http://www.sunag.com.br/sea3d/?forcecpu=true&shadow=cascade
+Mode2: http://sea3d.poonya.com/player/?forcecpu=true&shadow=cascade
 
 == Shortcuts == 
 
@@ -29,7 +29,7 @@ _If contained in the file .sea._
   * false *(default)*
 *
 
-*Example:* http://www.sunag.com.br/sea3d/?forcecpu=true
+*Example:* http://sea3d.poonya.com/player/?forcecpu=true
 
 === shadow ===
 
@@ -42,7 +42,7 @@ _If contained in the file .sea._
   * cascade
 *
 
-*Example:* http://www.sunag.com.br/sea3d/?shadow=none
+*Example:* http://sea3d.poonya.com/player/?shadow=none
 
 === fog ===
 
@@ -54,7 +54,7 @@ _If contained in the file .sea._
   * false
 *
 
-*Example:* http://www.sunag.com.br/sea3d/?fog=false
+*Example:* http://sea3d.poonya.com/player/?fog=false
 
 === load ===
 
@@ -64,4 +64,4 @@ Open a SEA3D file from a URL.
   * url
 *
 
-*Example:* http://www.sunag.com.br/sea3d/?load=http://www.sunag.com.br/sea3d/soccerreflect.sea&forcecpu=true&shadow=cascade
+*Example:* http://sea3d.poonya.com/player/?load=http://sea3d.poonya.com/player/soccerreflect.sea&forcecpu=true&shadow=cascade
