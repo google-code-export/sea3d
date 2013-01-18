@@ -1,0 +1,23 @@
+#summary Learn how to configure SEA3D in mobile device using Flash Builder.
+
+*Configuration*
+
+Add the tags in the `Main-app.xml` of your application in Flash Builder.
+
+{{{
+<renderMode>direct</renderMode> 
+
+<depthAndStencil>true</depthAndStencil>
+
+<autoOrients>false</autoOrients>
+
+<aspectRatio>landscape</aspectRatio>
+
+<fullScreen>true</fullScreen>
+}}}
+
+
+
+*Update your Air SDK*
+
+http://stackoverflow.com/questions/12083822/how-do-i-upgrade-flash-builder-4-6-to-air-3-4
