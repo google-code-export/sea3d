@@ -9,7 +9,7 @@ We intend to expand SEA3D for platforms beyond the Flash Player being able to cr
 
 The *SEA3D License is compatible with the MIT License* a liberal license that can be used for both commercial content or not.
 
-*Their dependencies as engine Away3D and Flash Player uses other license types that have to be consulted.*
+*Their dependencies uses other license types that have to be consulted.*
 
 We ask everyone who can disseminate our material by placing it in forums and blogs or labels in your project.
 
