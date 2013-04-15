@@ -8,7 +8,6 @@
   * - Direct Mesh Loader (no parse in runtime)
   * - Boundary vertices extended of 65 thousand to 4 billion
   * - Ansyn Texture Loader
-  * - Matrices and Quaternion based
   * - Index or named references with real file formats (allows splitting SEA3D in multiple files)
   * Export Sprite3D
   * New Morph Engine for CPU
