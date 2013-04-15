@@ -5,7 +5,7 @@
 
 We create SEA3D to help the development of games based on the technology we use in the company Sunag Entertainment.
 
-We intend to expand SEA3D for multiplatform being able to create games for both the Mobile, Web, Desktop and Clound.
+We intend to expand SEA3D for multiplatform being able to create games for both the Mobile, Web, Desktop and Clound Gamming.
 
 The *SEA3D License is compatible with the MIT License* a liberal license that can be used for both commercial content or not.
 
