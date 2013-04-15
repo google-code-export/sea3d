@@ -11,7 +11,7 @@
   * - Ansyn Texture Loader
   * - Matrices and Quaternion based
   * - Preserves real file formats and names
-  * New Morph CPU Engine
+  * New Morph Engine for CPU
   * Direct Interpolation Method
 === Fix ===
   * SEA3D Player : (Error #1125) for vertex limit
