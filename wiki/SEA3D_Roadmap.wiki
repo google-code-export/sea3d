@@ -12,7 +12,8 @@
   * - Matrices and Quaternion based
   * - Preserves real file formats and names
   * New Morph Engine for CPU
-  * Direct Interpolation Method for Animations
+  * New Interpolation Engine
+  * Animation Range by Custom Sequences
 === Fix ===
   * SEA3D Player : (Error #1125) for vertex limit
   * Export only Animations (disabling Mesh exporter for example)
