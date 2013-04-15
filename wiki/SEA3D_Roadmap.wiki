@@ -11,6 +11,7 @@
   * - Ansyn Texture Loader
   * - Matrices and Quaternion based
   * - Preserves real file formats and names
+  * Export Sprite3D
   * New Morph Engine for CPU
   * New Interpolation Engine
   * Animation Range by Custom Sequences
@@ -19,6 +20,7 @@
   * Export only Animations (disabling Mesh exporter for example)
   * Instance Skeleton Animation
   * Auto Detect First UV Mapping
+  * New Line Exporter
 ----
 == SEA3D 1.4.1 ==
 === Up ===
