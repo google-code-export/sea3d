@@ -24,13 +24,13 @@ The solution is to add this line of code in the initial configuration of 3ds Max
 </runtime>
 }}}
 
-Or following the instructions below.
+*Example* http://sea3d.googlecode.com/svn/resources/3dsmax.exe.config
+
+or following the instructions below.
 
 == 1. Download the file: ==
 
 *Download* http://code.google.com/p/sea3d/source/browse/resources/3dsmax.exe.config
-
-*Preview* http://sea3d.googlecode.com/svn/resources/3dsmax.exe.config
 
 == 2. Replace the file: ==
 
