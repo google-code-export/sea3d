@@ -26,7 +26,7 @@ The solution is to add this line of code in the initial configuration of 3ds Max
 
 *Example* http://sea3d.googlecode.com/svn/resources/3dsmax.exe.config
 
-or following the instructions below.
+Or following the instructions below.
 
 == 1. Download the file: ==
 
