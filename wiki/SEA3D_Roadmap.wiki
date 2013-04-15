@@ -3,13 +3,13 @@
 
 == SEA3D 1.5 ==
 === Up ===
-  * [ File Struct 2.0 ]
+  * File Struct 2.0
   * - Faster to load
   * - Index or named references
   * - Direct Mesh Loader (no parse in runtime)
   * - Boundary vertices extended of 65 thousand to 4 billion
   * - Ansyn Texture Loader
-  * - Matrices based
+  * - Matrices and Quaternion based
   * - Preserves real file formats and names
   * New Morph CPU Engine
   * Direct Interpolation Method
