@@ -5,7 +5,7 @@
 
 We create SEA3D to help the development of games based on the technology we use in the company Sunag Entertainment.
 
-We intend to expand SEA3D for platforms beyond the Flash Player being able to create games for both the Web as Desktop.
+We intend to expand SEA3D for platforms beyond the Flash Player being able to create games for both the Web and Desktop.
 
 The *SEA3D License is compatible with the MIT License* a liberal license that can be used for both commercial content or not.
 
