@@ -19,7 +19,7 @@
   * Export only Animations (disabling Mesh exporter for example)
   * Instance Skeleton Animation
   * Auto Detect First UV Mapping
-  * New Line Exporter
+  * Export Line with Scene Hierarchy 
 ----
 == SEA3D 1.4.1 ==
 === Up ===
