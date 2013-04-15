@@ -1,6 +1,24 @@
 #summary Progress development of SEA3D.
 #labels Featured,History,Roadmap,SEA3D
 
+== SEA3D 1.5 ==
+=== Up ===
+  * [ File Struct 2.0 ]
+  * - Faster to load
+  * - Index or named references
+  * - Direct Mesh Loader (no parse in runtime)
+  * - Boundary vertices extended of 65 thousand to 4 billion
+  * - Ansyn Texture Loader
+  * - Matrices based
+  * - Preserves real file formats and names
+  * New Morph CPU Engine
+  * Direct Interpolation Method
+=== Fix ===
+  * SEA3D Player : (Error #1125) for vertex limit
+  * Export only Animations (disabling Mesh exporter for example)
+  * Instance Skeleton Animation
+  * Auto Detect First UV Mapping
+----
 == SEA3D 1.4.1 ==
 === Up ===
   * Face Normals
