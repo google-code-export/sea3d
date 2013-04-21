@@ -15,7 +15,8 @@
   * New Interpolation Engine
   * Animation Range by Custom Sequences
 === Fix ===
-  * SEA3D Player : (Error #1125) for vertex limit
+  * SEA3D Player | Detail of errors on the GPU
+  * SEA3D Player | (Error #1125) for vertex limit
   * Export only Animations (disabling Mesh exporter for example)
   * Instance Skeleton Animation
   * Auto Detect First UV Mapping
