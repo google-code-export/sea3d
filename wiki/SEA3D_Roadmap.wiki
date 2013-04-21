@@ -14,13 +14,13 @@
   * Skin with Morph
   * New Interpolation Engine
   * Animation Range by Custom Sequences
+  * Export Line with Scene Hierarchy 
 === Fix ===
   * SEA3D Player | Detail of errors on the GPU
   * SEA3D Player | (Error #1125) for vertex limit
-  * Export only Animations (disabling Mesh exporter for example)
-  * Instance Skeleton Animation
-  * Auto Detect First UV Mapping
-  * Export Line with Scene Hierarchy 
+  * SEA3D Exporter | Export only Animations (disabling Mesh exporter for example)
+  * SEA3D Exporter | Auto Detect First UV Mapping
+  * SEA3D Exporter | Instance Skeleton Animation
 ----
 == SEA3D 1.4.1 ==
 === Up ===
