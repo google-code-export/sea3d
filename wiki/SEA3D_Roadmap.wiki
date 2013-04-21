@@ -10,7 +10,8 @@
   * - Ansyn Texture Loader
   * - Index or named references with real file formats (allows splitting SEA3D in multiple files)
   * Export Sprite3D
-  * New Morph Engine for CPU
+  * New Morph Engine for GPU/CPU
+  * Skin with Morph
   * New Interpolation Engine
   * Animation Range by Custom Sequences
 === Fix ===
