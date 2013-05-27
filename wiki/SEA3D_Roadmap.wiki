@@ -11,7 +11,7 @@
   * Export Sprite3D
   * New Instancing Technology (instancing every repeated object automatically)
   * Ansyn Texture Loader
-  * New Morph Engine for GPU/CPU (+1000 Morph Slot)
+  * New Morph Engine for GPU/CPU (+1000 slots)
   * Skin with Morph
   * New Interpolation Engine (faster with on/off interpolation)
   * Animation Range by Custom Sequences
