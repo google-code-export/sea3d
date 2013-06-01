@@ -9,7 +9,7 @@
   * *.anm* = Generic animation, lights, meshes, helpers, textures and others.	
   * *.seq* = Animation sequences, includes name, start, end and others
   * *.mph* = Geometry morphs
-  * *.mpha* = Morph animation, morph weight.
+  * *.mpha* = Morph animation, animates the weight.
   * *.vtc* = Vertex color.
   * *.vtxa* = Vertex animation.
   * *.plht* = Point light.
