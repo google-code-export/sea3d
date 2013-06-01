@@ -1,5 +1,5 @@
 #summary Learn about shortcuts and setting of the SEA3D Player.
-#labels SEA3D,Player
+#labels SEA3D
 
 = SEA3D Player  =
 
