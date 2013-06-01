@@ -1,5 +1,4 @@
 #summary Aprenda de maneira fácil exportar modelos e animações do 3dsMax para Flash Player (AS3).
-#labels 3dsmax,poonya,portugues,exporter,sea3d,brasil,tutorial,docs
 
 http://sea3d.googlecode.com/svn/tags/SEA3D-Top.jpg
 
