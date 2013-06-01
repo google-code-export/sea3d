@@ -1,5 +1,5 @@
 #summary Read about the SEA3D License.
-#labels Featured,SEA3D_License,MIT_License
+#labels Featured
 
 = SEA3D License =
 
