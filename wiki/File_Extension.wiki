@@ -1,0 +1,50 @@
+#summary Know what are the file extensions compatible with SEA3D.
+
+== SEA3D ==
+
+  * *.inf* = File info.
+  * *.geo* = Geometry.
+  * *.m3d* = Mesh.
+  * *.m2d* = Sprite3D.
+  * *.anm* = Generic animation. Lights, meshes, helpers, textures and others.	
+  * *.seq* = Animation sequences, includes name, start, end and others
+  * *.mph* = Geometry morphs
+  * *.mpha* = Morph animation, morph weight.
+  * *.vtc* = Vertex color.
+  * *.vtxa* = Vertex animation.
+  * *.plht* = Point light.
+  * *.dlht* = Directional light.
+  * *.skl* = Skeleton.
+  * *.skla* = Skeleton animation.
+  * *.mat* = Material.
+  * *.tex* = Texture.
+  * *.cube* = Cube Mapping. 6 bitmaps with relative extesion.
+  * *.scub* = Single Cube Mapping. 1 bitmap with relative extesion.
+  * *.cam* = Camera.
+  * *.prop* = Object properties (Custom Attributes).
+  * *.sp* = Sound point 3D.
+  * *.line* = Line.
+  * *.dmy* = Dummy.
+  * *.tar* = Target.
+  * *.act* = Actions, includes actions such like change environment, play sound, add fog and others.
+  * *.src* = Script compiled or not. Relative language.
+  * *.data* = Custom binary data.
+
+== Global ==
+
+  * *.wdp* = JPEG-XR.
+  * *.jpg* = Joint Photographic Experts Group.
+  * *.png* = Portable Network Graphics.
+  * *.gif* = Graphics Interchange Format.
+  * *.mp3* = Moving Picture Experts Group.
+  * *.ogg* = Ogg Vorbis.
+
+== Flash Player ==
+
+  * *.atf* = Adobe Texture Format.
+  * *.atfc* = Adobe Texture Format (Cube Mapping).
+
+== Console | WebGL ==
+
+  * *.dds* = DirectDraw Surface.
+  * *.ddsc* = DirectDraw Surface (Cube Mapping).
