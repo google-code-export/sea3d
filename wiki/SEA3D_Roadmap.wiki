@@ -1,5 +1,5 @@
 #summary Progress development of SEA3D.
-#labels Featured,History,Roadmap,SEA3D
+#labels Featured
 
 == SEA3D 1.5 ==
 === Up ===
