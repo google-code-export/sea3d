@@ -2,7 +2,7 @@
 
 == SEA3D ==
 
-  * *.inf* = File info.
+  * *.inf* = File info, name, date, copyright and others.
   * *.geo* = Geometry.
   * *.m3d* = Mesh.
   * *.m2d* = Sprite3D.
