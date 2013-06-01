@@ -28,7 +28,7 @@
   * *.tar* = Target.
   * *.act* = Actions, includes actions such like change environment, play sound, add fog and others.
   * *.src* = Script compiled or not. Relative language.
-  * *.data* = Custom data.
+  * *.data* = Custom binary data.
 
 == Global ==
 
