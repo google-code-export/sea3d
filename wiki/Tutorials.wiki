@@ -1,5 +1,5 @@
 #summary See list of tutorials SEA3D
-#labels Featured,SEA3D,Help,Tutorials
+#labels Featured
 
 == Tutorials ==
 
