@@ -17,7 +17,7 @@
   * *.skl* = Skeleton.
   * *.skla* = Skeleton animation.
   * *.mat* = Material.
-  * *.tex* = Texture Layers.
+  * *.tex* = Texture layers.
   * *.cube* = Cube Mapping. 6 bitmaps with relative extesion.
   * *.scub* = Single Cube Mapping. 1 bitmap with relative extesion.
   * *.cam* = Camera.
