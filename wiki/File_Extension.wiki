@@ -6,7 +6,7 @@
   * *.geo* = Geometry.
   * *.m3d* = Mesh.
   * *.m2d* = Sprite3D.
-  * *.anm* = Generic animation. Lights, meshes, helpers, textures and others.	
+  * *.anm* = Generic animation, lights, meshes, helpers, textures and others.	
   * *.seq* = Animation sequences, includes name, start, end and others
   * *.mph* = Geometry morphs
   * *.mpha* = Morph animation, morph weight.
