@@ -22,7 +22,7 @@
   * *.scub* = Single Cube Mapping. 1 bitmap with relative extesion.
   * *.cam* = Camera.
   * *.prop* = Object properties (Custom Attributes).
-  * *.sp* = Sound Point 3D.
+  * *.sp* = Sound point 3D.
   * *.line* = Line.
   * *.dmy* = Dummy.
   * *.tar* = Target.
