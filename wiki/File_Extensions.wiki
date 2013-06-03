@@ -37,7 +37,7 @@
   * *.jpg* = Joint Photographic Experts Group.
   * *.png* = Portable Network Graphics.
   * *.gif* = Graphics Interchange Format.
-  * *.mp3* = Moving Picture Experts Group.
+  * *.mp3* = Moving Picture Experts Group - Audio Layer III.
   * *.ogg* = Ogg Vorbis.
 
 == Flash Player ==
