@@ -19,8 +19,8 @@
   * *.skla* = Skeleton animation.
   * *.mat* = Material.
   * *.tex* = Texture layers.
-  * *.cube* = Cube Mapping. 6 bitmaps with relative extesion.
-  * *.scub* = Single Cube Mapping. 1 bitmap with relative extesion.
+  * *.cube* = Cube Mapping. 6 bitmaps with relative extension.
+  * *.scub* = Single Cube Mapping. 1 bitmap with relative extension.
   * *.cam* = Camera.
   * *.prop* = Object properties (Custom Attributes).
   * *.sp* = SoundPoint3D.
