@@ -28,7 +28,7 @@
   * *.dmy* = Dummy.
   * *.tar* = Target.
   * *.act* = Actions, includes actions such like change environment, play sound, add fog and others.
-  * *.src* = Script compiled or not. Relative language.
+  * *.src* = Script compiled or not, relative language.
   * *.data* = Custom binary data.
 
 == Global ==
