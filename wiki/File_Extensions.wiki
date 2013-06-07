@@ -31,7 +31,7 @@
   * *.src* = Script compiled or not, relative language.
   * *.data* = Custom binary data.
 
-== Universal ==
+== Global ==
 
   * *.wdp* = JPEG-XR.
   * *.jpg* = Joint Photographic Experts Group.
