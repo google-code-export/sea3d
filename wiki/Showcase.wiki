@@ -1,7 +1,7 @@
-#summary List examples of projects created by SEA3D users.
+#summary List examples of projects powered by SEA3D.
 #labels Featured
 
-Check the list of examples projects created by SEA3D users.
+Check the list of examples projects created by SEA3D developers.
 
 Alphabetic order.
 
