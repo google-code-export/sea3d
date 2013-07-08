@@ -5,7 +5,7 @@ Check the list of projects and examples created by SEA3D developers.
 
 Alphabetic order.
 
-== Arch3D (BR) ==
+== Arch3D ( BR ) ==
 Create a environment home with furniture their favorite companies.
 
 http://www.solvera.com.br/arch3d/itatiaia/
