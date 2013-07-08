@@ -1,9 +1,16 @@
 #summary List examples of projects powered by SEA3D.
 #labels Featured
 
-Check the list of examples projects created by SEA3D developers.
+Check the list of projects and examples created by SEA3D developers.
 
 Alphabetic order.
+
+== Arch3D (BR) ==
+Create a environment home with furniture their favorite companies.
+
+http://www.solvera.com.br/arch3d/itatiaia/
+
+Kitchen example - http://www.solvera.com.br/arch3d/itatiaia/?s=438ad7ab0f3
 
 = Flash =
 
