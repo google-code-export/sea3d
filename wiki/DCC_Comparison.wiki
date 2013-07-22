@@ -17,7 +17,7 @@ The list below contains the native features of the file formats listed below.
 || Skeleton || Yes || Yes || Yes || No ||
 || Morphs || Yes || Yes || Yes || No ||
 || Texture || Yes || Link || Link || Link ||
-|| Material || Yes || Yes || Yes || Yes ||
+|| Material || Yes || Yes || Yes || Link ||
 || LightMap | DetailMap | NormalMap || Yes || Link || Link || No ||
 || Layered Texture || Yes || No || No || No ||
 || Animation Takes || Yes || Yes || Yes || No ||
