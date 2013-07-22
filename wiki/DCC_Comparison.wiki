@@ -5,16 +5,20 @@
 
 The list below contains the native features of the file formats listed below.
 
+=== Summary ===
+  * `*Link* is not implemented in the same file.`
+  * `*End Product* represents the final file.`
+
 || *Description* || *SEA3D* || *FBX* || *COLLADA* || *OBJ* ||
 || Open-Source || Yes || SDK || Yes || Yes ||
 || Animation || Yes || Yes || Yes || No ||
 || Mesh || Yes || Yes || Yes || Yes ||
+|| Sprite3D || Yes || No || No || No ||
 || Skeleton || Yes || Yes || Yes || No ||
 || Morphs || Yes || Yes || Yes || No ||
 || Texture || Yes || Link || Link || Link ||
 || Material || Yes || Yes || Yes || Yes ||
-|| LightMap || Yes || No || No || No ||
-|| DetailMap || Yes || No || No || No ||
+|| LightMap | DetailMap | NormalMap || Yes || Link || Link || No ||
 || Layered Texture || Yes || No || No || No ||
 || Animation Takes || Yes || Yes || Yes || No ||
 || Native Compression || Yes || No || No || No ||
