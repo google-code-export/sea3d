@@ -1,0 +1,22 @@
+#summary Comparison between the most popular file formats. FBX, Collada, OBJ and SEA3D.
+#labels Featured,DCC,Comparison
+
+|| *Description* || *SEA3D* || *FBX* || *COLLADA* || *OBJ* ||
+|| Open-Source || Yes || SDK || Yes || Yes ||
+|| Animation || Yes || Yes || Yes || No ||
+|| Mesh || Yes || Yes || Yes || Yes ||
+|| Skeleton || Yes || Yes || Yes || No ||
+|| Morphs || Yes || Yes || Yes || No ||
+|| Texture || Yes || Link || Link || Link ||
+|| LightMap || Yes || No || No || No ||
+|| DetailMap || Yes || No || No || No ||
+|| Layered Texture || Yes || No || No || No ||
+|| Animation Takes || Yes || Yes || Yes || No ||
+|| Native Compression || Yes || No || No || No ||
+|| Binary Format || Yes || No || No || No ||
+|| Streaming File Format || Yes || No || No || No ||
+|| Sound3D || Yes || No || No || No ||
+|| Instancing || Yes || Yes || Yes || No ||
+|| Scene Hierarchy || Yes || Yes || Yes || No ||
+|| Multiple Channels Mapping || Yes || Yes || Yes || No ||
+|| Interchange File Format || Yes | End Product || Yes || Yes || Yes ||
