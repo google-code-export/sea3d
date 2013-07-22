@@ -18,7 +18,7 @@ The list below contains the native features of the file formats listed below.
 || Layered Texture || Yes || No || No || No ||
 || Animation Takes || Yes || Yes || Yes || No ||
 || Native Compression || Yes || No || No || No ||
-|| Binary Format || Yes || No || No || No ||
+|| Binary Format || Yes || Yes || No || No ||
 || Streaming File Format || Yes || No || No || No ||
 || Sound3D || Yes || No || No || No ||
 || Instancing || Yes || Yes || Yes || No ||
