@@ -7,7 +7,7 @@ The list below contains the native features of the file formats listed below.
 
 === Summary ===
   * `*Link* is not implemented in the same file.`
-  * `*End Product* represents the final file.`
+  * `*End Product* release-quality.`
 
 || *Description* || *SEA3D* || *FBX* || *COLLADA* || *OBJ* ||
 || Open-Source || Yes || SDK || Yes || Yes ||
