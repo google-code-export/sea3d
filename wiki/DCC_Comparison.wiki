@@ -1,4 +1,4 @@
-#summary Comparison between the most popular file formats. FBX, Collada, OBJ and SEA3D.
+#summary Comparison between the most popular file formats. FBX, Collada, OBJ with SEA3D.
 #labels Featured,DCC,Comparison
 
 *SEA3D* is a open-source cross-platform file format for games. SEA3D is not only a interchange file format, developed to get high performance for games in multiple platforms.
