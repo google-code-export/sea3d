@@ -3,7 +3,7 @@
 
 = SEA3D License =
 
-We create SEA3D to help the development of games based on the technology we use in the company Sunag Entertainment.
+We create SEA3D to help the game development based on the technology we use in the company Sunag Entertainment.
 
 We intend to expand SEA3D for multiplatform being able to create games for both the Mobile, Web, Desktop and Clound Computing.
 
