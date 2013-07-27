@@ -7,6 +7,8 @@
   * *.geo* = Geometry.
   * *.m3d* = Mesh.
   * *.m2d* = Sprite3D.
+  * *.s3d* = Scene3D.
+  * *.gr* = Container3D (Group3D).
   * *.anm* = Generic animation, lights, meshes, helpers, textures and others.	
   * *.seq* = Animation sequences, includes name, start, end and others
   * *.mph* = Geometry morphs
@@ -23,7 +25,8 @@
   * *.scub* = Single Cube Mapping. 1 bitmap with relative extension.
   * *.cam* = Camera.
   * *.prop* = Object properties (Custom Attributes).
-  * *.sp* = SoundPoint3D.
+  * *.sp* = SoundPoint3D.  
+  * *.jnt* = Joint(Bone) Object.
   * *.line* = Line.
   * *.dmy* = Dummy.
   * *.tar* = Target.
