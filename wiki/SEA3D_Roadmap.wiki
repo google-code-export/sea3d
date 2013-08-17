@@ -12,13 +12,14 @@
   * - Load and Mapping SEA3D File for Big Scenes (Load a single model if you want)
   * - Dynamic Light Picker (Away3D)
   * - Dynamic Fog and Shadows (Away3D)
-  * SEA3D Studio
-  * - Import/Export SEA3D File
-  * - Scene, Material and Game Object Editor
-  * - Custom Interface
 === Fix ===
   * - Dummy, Target Export
   * - Other minor fixes
+
+== SEA3D Studio ==
+  * - Import/Export SEA3D File
+  * - Scene, Material and Game Object Editor
+  * - Custom Interface
 
 == SEA3D 1.5 ==
 === Up ===
