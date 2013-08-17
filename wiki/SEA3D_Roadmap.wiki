@@ -16,7 +16,7 @@
   * - Dummy, Target Export
   * - Other minor fixes
 
-=== SEA3D Studio ===
+== SEA3D Studio 1.0 ==
   * - Import/Export SEA3D File
   * - Scene, Material and Game Object Editor
   * - Custom Interface
