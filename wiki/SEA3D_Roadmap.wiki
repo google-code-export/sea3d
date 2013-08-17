@@ -18,9 +18,9 @@
   * - Import/Export SEA3D File
   * - Scene, Material and Game Object Editor
   * - Custom Interface
-  * - Optimizer for Web
 
 === SEA3D Studio - Next Update ===
+  * - Optimizer for Web
   * - LUA Scripting support
   * - Composite Texture supports
   * - Primitives.
