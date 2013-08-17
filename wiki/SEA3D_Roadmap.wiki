@@ -4,6 +4,7 @@
 == SEA3D 1.6 ==
 === Up ===
   * File Struct 3.0 (Final)
+  * - Based on cross-platform
   * - Direct texture loader
   * - Auto rename
   * - Full support for ATF Textures 
@@ -12,14 +13,23 @@
   * - Load and Mapping SEA3D File for Big Scenes (Load a single model if you want)
   * - Dynamic Light Picker (Away3D)
   * - Dynamic Fog and Shadows (Away3D)
-=== Fix ===
-  * - Dummy, Target Export
-  * - Other minor fixes
 
-== SEA3D Studio 1.0 ==
+=== SEA3D Studio ===
   * - Import/Export SEA3D File
   * - Scene, Material and Game Object Editor
   * - Custom Interface
+  * - Optimizer for Web
+
+=== SEA3D Studio - Next Update ===
+  * - LUA Scripting support
+  * - Composite Texture supports
+  * - Primitives.
+  * - Open Source Plataform Game
+  * - Environment and Runtime Reflection
+
+=== Fix ===
+  * - Dummy, Target Export
+  * - Other minor fixes
 
 == SEA3D 1.5 ==
 === Up ===
