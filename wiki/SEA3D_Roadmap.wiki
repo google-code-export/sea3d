@@ -8,7 +8,7 @@
   * - Auto rename
   * - Full support for ATF Textures 
   * - New Texture Animation System
-  * - Local/Global Animation for SEA3D Animation
+  * - Local / Global Animation for SEA3D Animation
   * - Load and Mapping SEA3D File for Big Scenes (Load a single model if you want)
   * - Dynamic Light Picker (Away3D)
   * - Dynamic Fog and Shadows (Away3D)
