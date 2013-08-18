@@ -16,7 +16,7 @@
 
 === SEA3D Studio ===
   * - Import / Export SEA3D File
-  * - Scene, Material and Game Object Editor
+  * - Scene, Material and Game Object editor
   * - Custom Interface
 
 === SEA3D Studio - Next Update ===
