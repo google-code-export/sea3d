@@ -4,7 +4,7 @@
 == SEA3D 1.6 ==
 === Up ===
   * File Struct 3.0 (Final)
-  * - Based on cross-platform
+  * - Based for cross-platform
   * - Optimization for texture and shaders
   * - Auto rename
   * - Full support for ATF Textures 
