@@ -1,4 +1,4 @@
-#summary Progress development of SEA3D.
+#summary Development progress of SEA3D.
 #labels Featured
 
 == SEA3D 1.6 ==
