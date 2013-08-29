@@ -5,7 +5,7 @@
 === Up ===
   * File Struct 3.0 (Final)
   * - Based on cross-platform
-  * - Direct texture loader
+  * - Optimization for texture and shaders
   * - Auto rename
   * - Full support for ATF Textures 
   * - New Texture Animation System
