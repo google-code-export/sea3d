@@ -23,7 +23,7 @@
   * - Optimizer for Web
   * - LUA Scripting support
   * - Composite Texture supports
-  * - Primitives.
+  * - Primitives
   * - Open Source Plataform Game
   * - Environment and Runtime Reflection
 
