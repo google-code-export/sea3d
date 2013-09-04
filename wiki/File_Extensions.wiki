@@ -1,5 +1,4 @@
 #summary Know what are the file extensions compatible with SEA3D.
-#labels Featured
 
 == SEA3D ==
 
