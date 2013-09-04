@@ -22,7 +22,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
   * Left Pressed = Free camera rotation
   * Wheel = Zoom over object
-  * Middle Pressed = Rotation over object
+  * Middle Pressed = Move over object
   * Right Pressed = Rotation camera over object
 
 == History ==
