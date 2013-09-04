@@ -16,10 +16,11 @@ http://sea3d.poonya.com/studio/
 == History ==
 
 04/09/2013:
-  * - Multi-Material
+  * - Multi-Material Export
   * - Import Fog Method
   * - Export Joint Object
   * - SpecularMap | NormalMap with shadows
+  * - Shadow Opacity
 
 01/09/2013:
   * - RightClick with ContextMenu in Assets Explorer
