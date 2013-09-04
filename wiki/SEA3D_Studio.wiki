@@ -15,7 +15,7 @@ http://sea3d.poonya.com/studio/
 
 == History ==
 
-03/09/2013:
+04/09/2013:
   * - Multi-Material
   * - Import Fog Method
   * - Export Joint Object
