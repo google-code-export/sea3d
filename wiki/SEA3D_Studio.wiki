@@ -3,7 +3,9 @@
 
 = SEA3D Studio =
 
-http://sea3d.poonya.com/studio/
+Free cross-plataform 3D IDE for games - http://sea3d.poonya.com/studio/
+
+http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 == Shortcuts ==
 
