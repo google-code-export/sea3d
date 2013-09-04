@@ -7,8 +7,6 @@ http://sea3d.poonya.com/studio/
 
 == Shortcuts ==
 
-=== Viewport ===
-
   * 1 = Edit Position
   * 2 = Edit Rotation
   * 3 = Edit Scale
