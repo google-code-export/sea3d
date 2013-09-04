@@ -13,8 +13,17 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * 2 = Edit Rotation
   * 3 = Edit Scale
 
+  * W,A,S and D = Camera move
+
   * G = Grid
   * Z = Zoom at object
+
+== Mouse ==
+
+  * Left Pressed = Free camera rotation
+  * Wheel = Zoom over object
+  * Middle Pressed = Rotation over object
+  * Right Pressed = Rotation camera over object
 
 == History ==
 
