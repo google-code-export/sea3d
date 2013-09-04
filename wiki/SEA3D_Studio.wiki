@@ -1,0 +1,39 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= SEA3D Studio =
+
+http://sea3d.poonya.com/studio/
+
+== Shortcuts ==
+
+=== Viewport ===
+
+  * 1 = Edit Position
+  * 2 = Edit Rotation
+  * 3 = Edit Scale
+
+  * G = Grid
+
+== History ==
+
+03/09/2013:
+  * - Multi-Material
+  * - Import Fog Method
+  * - Export Joint Object
+  * - SpecularMap | NormalMap with Shadows
+
+== Roadmap ==
+
+=== Next Update ===
+  * - Optimizer for Web
+  * - LUA Scripting support
+  * - Composite Texture supports
+  * - Primitives
+  * - Open Source Plataform Game
+  * - Environment and Runtime Reflection
+
+=== Currently ===
+  * - Import / Export SEA3D File
+  * - Scene, Material and Game Object editor
+  * - Custom Interface
