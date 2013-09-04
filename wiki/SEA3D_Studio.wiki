@@ -32,7 +32,7 @@ http://sea3d.poonya.com/studio/
   * - Open Source Plataform Game
   * - Environment and Runtime Reflection
 
-== Current Version ==
+=== SEA3D Studio 1.0.0 BETA ===
   * - Import / Export SEA3D File
   * - Scene, Material and Game Object editor
   * - Custom Interface
