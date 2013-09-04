@@ -14,6 +14,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * 3 = Edit Scale
 
   * G = Grid
+  * Z = Zoom at object
 
 == History ==
 
