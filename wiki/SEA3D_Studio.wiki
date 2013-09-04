@@ -23,6 +23,8 @@ http://sea3d.poonya.com/studio/
 
 == Roadmap ==
 
+=== Next Update ==
+
   * - Optimizer for Web
   * - LUA Scripting support
   * - Composite Texture supports
