@@ -23,7 +23,7 @@ http://sea3d.poonya.com/studio/
 
 01/09/2013:
   * - RightClick with ContextMenu in Assets Explorer
-  * - Camera Controll with MiddleClick | RightClick for viewport
+  * - Camera controll with MiddleClick | RightClick for viewport
 
 == Roadmap ==
 
