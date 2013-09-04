@@ -23,7 +23,6 @@ http://sea3d.poonya.com/studio/
 
 == Roadmap ==
 
-=== Next Update ===
   * - Optimizer for Web
   * - LUA Scripting support
   * - Composite Texture supports
@@ -31,7 +30,7 @@ http://sea3d.poonya.com/studio/
   * - Open Source Plataform Game
   * - Environment and Runtime Reflection
 
-=== Currently ===
+== Currently ==
   * - Import / Export SEA3D File
   * - Scene, Material and Game Object editor
   * - Custom Interface
