@@ -1,4 +1,4 @@
-#summary SEA3D Studio wiki page.
+#summary SEA3D Studio wiki page
 #labels Featured
 
 = SEA3D Studio =
