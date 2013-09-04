@@ -21,6 +21,10 @@ http://sea3d.poonya.com/studio/
   * - Export Joint Object
   * - SpecularMap | NormalMap with Shadows
 
+01/09/2013:
+  * - RightClick with ContextMenu in Assets Explorer
+  * - Camera Controll with MiddleClick | RightClick for Viewport
+
 == Roadmap ==
 
 === Next Update ==
