@@ -13,7 +13,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * 2 = Edit Rotation
   * 3 = Edit Scale
 
-  * W,A,S and D = Camera move
+  * W,A,S and D = Camera position
 
   * G = Grid
   * Z = Zoom at object
