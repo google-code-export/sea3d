@@ -19,11 +19,11 @@ http://sea3d.poonya.com/studio/
   * - Multi-Material
   * - Import Fog Method
   * - Export Joint Object
-  * - SpecularMap | NormalMap with Shadows
+  * - SpecularMap | NormalMap with shadows
 
 01/09/2013:
   * - RightClick with ContextMenu in Assets Explorer
-  * - Camera Controll with MiddleClick | RightClick for Viewport
+  * - Camera Controll with MiddleClick | RightClick for viewport
 
 == Roadmap ==
 
