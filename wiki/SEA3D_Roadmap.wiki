@@ -14,19 +14,6 @@
   * - Dynamic Light Picker (Away3D)
   * - Dynamic Fog and Shadows (Away3D)
 
-=== SEA3D Studio ===
-  * - Import / Export SEA3D File
-  * - Scene, Material and Game Object editor
-  * - Custom Interface
-
-=== SEA3D Studio - Next Update ===
-  * - Optimizer for Web
-  * - LUA Scripting support
-  * - Composite Texture supports
-  * - Primitives
-  * - Open Source Plataform Game
-  * - Environment and Runtime Reflection
-
 === Fix ===
   * - Dummy, Target Export
   * - Other minor fixes
