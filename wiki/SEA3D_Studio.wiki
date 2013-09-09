@@ -54,9 +54,9 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Composite Texture supports
   * - Primitives
   * - Open Source Plataform Game
-  * - Environment and Runtime Reflection
 
-=== SEA3D Studio 1.0.0 BETA ===
+=== SEA3D Studio 1.0.2 BETA ===
   * - Import / Export SEA3D File
   * - Scene, Material and Game Object editor
   * - Custom Interface
+  * - Environment and Runtime Reflection
