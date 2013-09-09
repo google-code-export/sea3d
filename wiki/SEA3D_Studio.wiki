@@ -27,6 +27,13 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 == History ==
 
+08/09/2013:
+  * - Fix and improving on file processing (Save/Load)
+  * - Fix tilt in camera on free move
+  * - Export/Import RTT(Render to Texture)
+  * - Blend NormalMap
+  * - Environment Map 
+
 04/09/2013:
   * - Multi-Material Export
   * - Import Fog Method
