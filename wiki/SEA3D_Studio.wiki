@@ -32,7 +32,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Fix camera tilt in free move
   * - Export/Import RTT(Render to Texture)
   * - Blend NormalMap
-  * - Environment Map 
+  * - EnvironmentMap 
 
 04/09/2013:
   * - Multi-Material Export
