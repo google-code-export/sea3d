@@ -3,7 +3,7 @@
 
 = SEA3D Studio =
 
-Free cross-plataform 3D IDE for games - http://sea3d.poonya.com/studio/
+Free cross-platform 3D IDE for games - http://sea3d.poonya.com/studio/
 
 http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
@@ -53,7 +53,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - LUA Scripting support
   * - Composite Texture supports
   * - Primitives
-  * - Open Source Plataform Game
+  * - Open Source Platform Game
 
 === SEA3D Studio 1.0.2 BETA ===
   * - Import / Export SEA3D File
