@@ -9,14 +9,19 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 == Shortcuts ==
 
+*Scene Editor*
+
   * 1 = Edit Position
   * 2 = Edit Rotation
   * 3 = Edit Scale
+
+*Viewport*
 
   * W,A,S and D = Camera move
 
   * G = Grid
   * Z = Zoom at object
+  * Z = Reset
 
 == Mouse ==
 
