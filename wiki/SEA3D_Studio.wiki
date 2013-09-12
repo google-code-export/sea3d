@@ -25,7 +25,13 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * Middle Pressed = Camera move over object
   * Right Pressed = Camera rotation over object
 
-== History ==
+== Roadmap ==
+
+13/09/2013:
+
+  * - Improvement Performace in Camera Preview
+  * - Sound3D and SoundMixer
+  * - Improvement for Scene Hierarchy (Preserve transform in change parent)
 
 08/09/2013:
   * - Fix and improving in file processing (Save/Load)
@@ -44,8 +50,6 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 01/09/2013:
   * - RightClick with ContextMenu in Assets Explorer
   * - Camera controll with MiddleClick | RightClick for viewport
-
-== Roadmap ==
 
 === Next Update ==
 
