@@ -29,9 +29,9 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 13/09/2013:
 
-  * - Improvement Performace in Camera Preview
   * - Sound3D and SoundMixer
   * - Improvement for Scene Hierarchy (preserves the transform in change parent)
+  * - Improvement Performace in Camera Preview
 
 08/09/2013:
   * - Fix and improving in file processing (Save/Load)
