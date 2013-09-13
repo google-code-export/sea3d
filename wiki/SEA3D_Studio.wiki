@@ -34,6 +34,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 13/09/2013:
 
+  * - Fix Camera Export
   * - Sound3D and SoundMixer
   * - Improvement for Scene Hierarchy (preserves the transform in change parent)
   * - Improvement Performace for Camera Preview
