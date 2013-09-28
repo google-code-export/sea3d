@@ -55,6 +55,17 @@ _If contained in the file .sea._
 
 *Example:* http://sea3d.poonya.com/player/?fog=false
 
+=== dynamic ===
+
+Enables dynamic scene. Necessary if the scene use many lights.
+
+*
+  * true 
+  * false *(default)*
+*
+
+*Example:* http://sea3d.poonya.com/player/?fog=false
+
 === load ===
 
 Open a SEA3D file from a URL.
