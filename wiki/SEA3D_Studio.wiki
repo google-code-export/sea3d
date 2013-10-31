@@ -34,9 +34,9 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 31/10/2013:
 
-  * - New Export Algorithm 
-  * - Physics Support
-  * - Texture Animate
+  * - New export algorithm 
+  * - Physics support
+  * - Texture animate
   * - Dummy
   * - New Actions - Look At and Environment Color
   * - Improvement for Material Preview
