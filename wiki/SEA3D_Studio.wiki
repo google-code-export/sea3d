@@ -38,46 +38,47 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Physics support
   * - Texture animate
   * - Dummy
-  * - New actions - Look At and Environment Color
-  * - Improvement for Material Preview
-  * - Improvement for Move/Rotate/Scale
+  * - New actions - look at and environment color
+  * - Improvement for material preview
+  * - Improvement for move/rotate/scale
 
 13/09/2013:
 
-  * - Fix Camera Export
-  * - Sound3D and SoundMixer
-  * - Improvement for Scene Hierarchy (preserves the transform in change parent)
-  * - Improvement Performace for Camera Preview
-  * - Features for Viewport and Camera
+  * - Fix camera export
+  * - Sound 3D and sound mixer
+  * - Improvement for scene hierarchy (preserves the transform in change parent)
+  * - Improvement performace for camera preview
+  * - Features for viewport and camera
 
 08/09/2013:
   * - Fix and improving in file processing (Save/Load)
   * - Fix camera tilt in free move
-  * - Export/Import RTT(Render to Texture)
-  * - Blend NormalMap
-  * - EnvironmentMap 
+  * - Export/Import RTT(render to texture)
+  * - Blend normal map
+  * - Environment map 
 
 04/09/2013:
-  * - Multi-Material Export
-  * - Import Fog Method
-  * - Export Joint Object
-  * - SpecularMap | NormalMap with shadows
-  * - Shadow Opacity
+  * - Multi-Material export
+  * - Import fog method
+  * - Export joint object
+  * - Specular map | normal map with shadows
+  * - Shadow opacity
 
 01/09/2013:
-  * - RightClick with ContextMenu in Assets Explorer
-  * - Camera controll with MiddleClick | RightClick for viewport
+  * - RightClick with contextMenu in assets explorer
+  * - Camera controll with middle click | right click for viewport
 
 === Next Update ==
 
   * - Optimizer for Web
   * - LUA Scripting support
-  * - Composite Texture supports
+  * - Composite texture supports
   * - Primitives
   * - Open Source Platform Game
 
-=== SEA3D Studio 1.0.2 BETA ===
+=== SEA3D Studio 1.0 Little Panda ===
   * - Import / Export SEA3D File
   * - Scene, Material and Game Object editor
-  * - Custom Interface
+  * - Physics Support
   * - Environment and Runtime Reflection
+  * - Custom Interface
