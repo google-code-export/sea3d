@@ -32,6 +32,16 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 == Roadmap ==
 
+31/10/2013:
+
+  * - New Export Algorithm 
+  * - Physics Support
+  * - Texture Animate
+  * - Dummy
+  * - New Actions - Look At and Environment Color
+  * - Improvement for Material Preview
+  * - Improvement for Move/Rotate/Scale
+
 13/09/2013:
 
   * - Fix Camera Export
