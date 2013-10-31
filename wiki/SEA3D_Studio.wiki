@@ -38,7 +38,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Physics support
   * - Texture animate
   * - Dummy
-  * - New Actions - Look At and Environment Color
+  * - New actions - Look At and Environment Color
   * - Improvement for Material Preview
   * - Improvement for Move/Rotate/Scale
 
