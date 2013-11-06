@@ -80,6 +80,6 @@
   * *.dds* = DirectDraw Surface.
   * *.ddsc* = DirectDraw Surface (Cube Mapping).
 
-== INFO ==
+== Info ==
 
   * *.inf* = File info, name, date, copyright and others.
