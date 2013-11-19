@@ -15,7 +15,7 @@ This protection prevents any DLL is dynamically accessed from remote locations a
 
 = Solution =
 
-The solution is to add this line of code in the initial configuration of 3ds Max *3dsmax.exe.config*.
+The solution is to add this line of code in the initial configuration of 3ds Max *3dsmax.exe.config* (../Autodesk/3ds Max/3dsmax.exe.config).
 
 {{{
 <runtime>         
