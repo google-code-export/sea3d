@@ -33,6 +33,6 @@ Or following the instructions below.
 
 == 2. Replace the file: ==
 
-../Autodesk/3ds Max 2012/3dsmax.exe.config
+../Autodesk/3ds Max 2013/3dsmax.exe.config
 
 == 3. Restart 3ds Max ==
