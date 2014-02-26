@@ -79,7 +79,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - SOA Architecture
   * - Poonya Script Supports ( JavaScript and ActionScript compatible )
   * - Tools for Mesh, Geometry and CubeMap
-  * - SEA3D Cloud Service (Import file more than 30+ file formats)
+  * - SEA3D Cloud Service (Convert to .sea more than 30+ different formats)
   * - Improved working interface
   * - Undo Supports
 
