@@ -76,9 +76,18 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Primitives
   * - Open Source Platform Game
 
+=== SEA3D Studio 1.1 Viva! ===
+  * - All SEA3D File Format features
+  * - SOA Architecture
+  * - Poonya Script Supports ( JavaScript and ActionScript compatible )
+  * - Composite Texture
+  * - Tools for Geometry
+  * - SEA3D Cloud Service (Import file more than 30+ file formats)
+  * - Undo Supports
+
 === SEA3D Studio 1.0 Little Panda ===
-  * - Import / Export SEA3D File
+  * - Import / Export SEA3D file
   * - Scene, Material and Game Object editor
-  * - Physics Support
+  * - Physics Supports
   * - Environment and Runtime Reflection
   * - Custom Interface
