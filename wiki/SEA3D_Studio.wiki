@@ -71,8 +71,6 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 === Next Update ==
 
   * - Optimizer for Web
-  * - LUA Scripting support
-  * - Composite texture supports
   * - Primitives
   * - Open Source Platform Game
 
@@ -80,8 +78,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - All SEA3D File Format features
   * - SOA Architecture
   * - Poonya Script Supports ( JavaScript and ActionScript compatible )
-  * - Composite Texture
-  * - Tools for Geometry
+  * - Tools for Mesh, Geometry and CubeMap
   * - SEA3D Cloud Service (Import file more than 30+ file formats)
   * - Undo Supports
 
