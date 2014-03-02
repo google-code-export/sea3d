@@ -81,7 +81,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Tools for Mesh, Geometry and CubeMap
   * - SEA3D Cloud Service (Convert to .sea more than 30+ different formats)
   * - Improved working interface
-  * - Undo Supports
+  * - Undo
 
 === SEA3D Studio 1.0 Little Panda ===
   * - Import / Export SEA3D file
