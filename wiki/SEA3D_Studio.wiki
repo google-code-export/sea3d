@@ -1,7 +1,7 @@
 #summary SEA3D Studio wiki page
 #labels Featured
 
-= SEA3D Studio 1.1 Viva! =
+= SEA3D Studio =
 
 Free cross-platform 3D IDE for games - http://sea3d.poonya.com/studio/
 
