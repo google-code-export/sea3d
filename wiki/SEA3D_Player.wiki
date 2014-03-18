@@ -66,12 +66,6 @@ Enables dynamic scene. Necessary if the scene use many lights.
 
 *Example:* http://sea3d.poonya.com/player/?fog=false
 
-=== old versions ===
-
-SEA3D Player 1.5 - http://sea3d.poonya.com/player/?v=2
-
-SEA3D Player 1.4 - http://sea3d.poonya.com/player/?v=1
-
 === load ===
 
 Open a SEA3D file from a URL.
@@ -81,3 +75,9 @@ Open a SEA3D file from a URL.
 *
 
 *Example:* http://sea3d.poonya.com/player/?load=http://sea3d.poonya.com/player/soccerreflect.sea&forcecpu=true&shadow=cascade
+
+=== old versions ===
+
+SEA3D Player 1.5 - http://sea3d.poonya.com/player/?v=2
+
+SEA3D Player 1.4 - http://sea3d.poonya.com/player/?v=1
