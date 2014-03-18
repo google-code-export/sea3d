@@ -28,9 +28,20 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * Left Pressed = Free camera rotation
   * Wheel = Zoom camera over object
   * Middle Pressed = Camera move over object
+  * Middle Click = Fast Access Menu
   * Right Pressed = Camera rotation over object
+  * Right Click = Context Menu
 
 == Roadmap ==
+
+18/03/2014:
+  * - All SEA3D File Format features
+  * - SOA Architecture
+  * - Poonya Script Supports ( JavaScript and ActionScript compatible )
+  * - Tools for Mesh, Geometry and CubeMap
+  * - SEA3D Cloud Service (Convert to .sea more than 30+ different formats)
+  * - Improved working interface
+  * - Undo
 
 31/10/2013:
 
