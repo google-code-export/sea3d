@@ -79,12 +79,6 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - RightClick with contextMenu in assets explorer
   * - Camera controll with middle click | right click for viewport
 
-=== Next Update ==
-
-  * - Optimizer for Web
-  * - Primitives
-  * - Open Source Platform Game
-
 === SEA3D Studio 1.1 Viva! ===
   * - All SEA3D File Format features
   * - SOA Architecture
