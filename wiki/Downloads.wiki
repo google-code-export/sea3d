@@ -1,6 +1,6 @@
 #summary Download Page.
 
-http://sea3d.googlecode.com/svn/tags/SEA3D-Top-BlackGL.jpg
+http://sea3d.googlecode.com/svn/tags/SEA3D-Top-BlackClean3.jpg
 
 = Downloads moved to GitHub =
 
