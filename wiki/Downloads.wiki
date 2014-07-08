@@ -1,0 +1,5 @@
+#summary Download Page.
+
+= Downloads moved to GitHub =
+
+== https://github.com/sunag/release ==
