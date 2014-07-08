@@ -2,4 +2,4 @@
 
 = Downloads moved to GitHub =
 
-== https://github.com/sunag/release ==
+== https://github.com/sunag/sea3d/release ==
