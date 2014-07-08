@@ -2,4 +2,4 @@
 
 = Source code moved to GitHub =
 
-== https://github.com/sunag/sea3d/sea3d ==
+== https://github.com/sunag/sea3d ==
