@@ -3,3 +3,7 @@
 = Downloads moved to GitHub =
 
 == https://github.com/sunag/sea3d/tree/master/Release ==
+
+= Others Downloads =
+
+https://code.google.com/p/sea3d/downloads/list
