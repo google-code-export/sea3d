@@ -35,9 +35,9 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 == Roadmap ==
 
 18/03/2014:
-  * - All SEA3D File Format features
+  * - All SEA3D features
   * - SOA Architecture
-  * - Poonya Script Supports ( JavaScript and ActionScript compatible )
+  * - Poonya Script ( JavaScript and ActionScript compatible )
   * - Tools for Mesh, Geometry and CubeMap
   * - SEA3D Cloud Service (Convert to .sea more than 30+ different formats)
   * - Improved working interface
@@ -82,7 +82,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 === SEA3D Studio 1.1 Viva! ===
   * - All SEA3D File Format features
   * - SOA Architecture
-  * - Poonya Script Supports ( JavaScript and ActionScript compatible )
+  * - Poonya Script ( JavaScript and ActionScript compatible )
   * - Tools for Mesh, Geometry and CubeMap
   * - SEA3D Cloud Service (Convert to .sea more than 30+ different formats)
   * - Improved working interface
