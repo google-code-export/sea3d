@@ -95,7 +95,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 === SEA3D Studio 1.1 Viva! ===
   * - All SEA3D features
-  * - Improved working interface
+  * - Improved of the working interface
   * - Undo
 
 === SEA3D Studio 1.0 Little Panda ===
