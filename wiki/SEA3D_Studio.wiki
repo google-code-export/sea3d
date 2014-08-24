@@ -42,7 +42,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Console (Beta)
 
 18/03/2014:
-  * - All SEA3D features for Studio
+  * - All SEA3D features
   * - SOA Architecture
   * - Poonya Script ( JavaScript and ActionScript compatible )
   * - Tools for Mesh, Geometry and CubeMap
@@ -94,7 +94,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Console (Beta)
 
 === SEA3D Studio 1.1 Viva! ===
-  * - All SEA3D features for Studio
+  * - All SEA3D features
   * - Improved working interface
   * - Undo
 
