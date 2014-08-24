@@ -81,6 +81,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
 
 === SEA3D Studio 1.1.3 Viva! ===
   * - SDK and Apps - https://github.com/sunag/sea3d_studio_sdk
+  * - Console (Beta)
   * - Sparticle
   * - Orthographic Camera
   * - CubeMap URL
