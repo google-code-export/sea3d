@@ -79,12 +79,15 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - RightClick with contextMenu in assets explorer
   * - Camera controll with middle click | right click for viewport
 
+=== SEA3D Studio 1.1.3 Viva! ===
+  * - SDK and Apps Examples - https://github.com/sunag/sea3d_studio_sdk
+  * - Sparticle
+  * - Orthographic Camera
+  * - CubeMap URL
+
 === SEA3D Studio 1.1 Viva! ===
   * - All SEA3D File Format features
-  * - SOA Architecture
-  * - Poonya Script ( JavaScript and ActionScript compatible )
-  * - Tools for Mesh, Geometry and CubeMap
-  * - SEA3D Cloud Service (Convert to .sea more than 30+ different formats)
+formats)
   * - Improved working interface
   * - Undo
 
