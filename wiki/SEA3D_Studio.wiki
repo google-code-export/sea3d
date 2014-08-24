@@ -80,7 +80,7 @@ http://sea3d.googlecode.com/svn/tags/SEA3D-Studio-Banner.jpg
   * - Camera controll with middle click | right click for viewport
 
 === SEA3D Studio 1.1.3 Viva! ===
-  * - SDK and Apps Examples - https://github.com/sunag/sea3d_studio_sdk
+  * - SDK and Apps - https://github.com/sunag/sea3d_studio_sdk
   * - Sparticle
   * - Orthographic Camera
   * - CubeMap URL
